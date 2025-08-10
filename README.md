@@ -18,7 +18,7 @@ A visual, interactive dashboard for running advanced image analytics using [Orac
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/yourusername/yourrepo/image_preview.png" width="750" alt="App Screenshot">
+  <img src="https://user-images.githubusercontent.com/AJSANU/OCI-AI-VISION/ImageClassification.png" width="750" alt="App Screenshot">
 </p>
 
 (Demo images coming soon!)
