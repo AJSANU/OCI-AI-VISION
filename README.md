@@ -17,11 +17,26 @@ A visual, interactive dashboard for running advanced image analytics using [Orac
 
 ## 📸 Screenshots
 
+### Image Classification
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/AJSANU/OCI-AI-VISION/ImageClassification.png" width="750" alt="App Screenshot">
+  <img src="ImageClassification.png" width="750" alt="App Screenshot">
 </p>
 
-(Demo images coming soon!)
+### Object Detection
+<p align="center">
+  <img src="ObjectDetection" width="750" alt="App Screenshot">
+</p>
+
+### Text Detection
+<p align="center">
+  <img src="TextDetection" width="750" alt="App Screenshot">
+</p>
+
+### Face Detection
+<p align="center">
+  <img src="FaceDetection" width="750" alt="App Screenshot">
+</p>
 
 ## 🚀 Getting Started
 
