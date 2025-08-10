@@ -43,8 +43,8 @@ A visual, interactive dashboard for running advanced image analytics using [Orac
 1. **Clone this repo**
 
     ```bash
-    git clone https://github.com/yourusername/smart-image-analyzer.git
-    cd smart-image-analyzer
+    git clone https://github.com/AJSANY/OCI-AI-VISION.git
+    cd OCI-AI-VISION
     ```
 
 2. **Install dependencies**
@@ -54,11 +54,11 @@ A visual, interactive dashboard for running advanced image analytics using [Orac
 
 3. **Configure OCI**
     - Place your `config` file in the root directory (see [OCI config docs](https://docs.oracle.com/en-us/iaas/Content/API/SDKDocs/pythonsdkconfig.htm)).
-    - Update `compartment_id` in `app.py` with your compartment’s OCID.
+    - Update `compartment_id` in `vision.py` with your compartment’s OCID.
 
 4. **Run the app**
     ```bash
-    streamlit run app.py
+    streamlit run vision.py
     ```
 
 5. **Use your browser**  
