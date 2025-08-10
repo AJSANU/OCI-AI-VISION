@@ -25,17 +25,17 @@ A visual, interactive dashboard for running advanced image analytics using [Orac
 
 ### Object Detection
 <p align="center">
-  <img src="ObjectDetection" width="750" alt="App Screenshot">
+  <img src="ObjectDetection.png" width="750" alt="App Screenshot">
 </p>
 
 ### Text Detection
 <p align="center">
-  <img src="TextDetection" width="750" alt="App Screenshot">
+  <img src="TextDetection.png" width="750" alt="App Screenshot">
 </p>
 
 ### Face Detection
 <p align="center">
-  <img src="FaceDetection" width="750" alt="App Screenshot">
+  <img src="FaceDetection.png" width="750" alt="App Screenshot">
 </p>
 
 ## 🚀 Getting Started
