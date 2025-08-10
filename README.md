@@ -67,4 +67,4 @@ Pull requests are welcome! For feedback, issues, or questions, open a [GitHub Is
 ---
 
 Made with ❤️ using [Oracle Cloud AI Vision](https://docs.oracle.com/en-us/iaas/Content/ai-vision/home.htm)  
-_By Your Name, 2024_
+_By Abhishek Jha, 2025_10th August
